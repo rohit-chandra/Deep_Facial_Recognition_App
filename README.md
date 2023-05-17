@@ -22,6 +22,11 @@ conda activate env_name
 conda install --yes --file requirements.txt
 ```
 
+### To run the app
+```
+python faceid.py
+```
+
 ### Reference
 
 1. [Setup Cuda](https://medium.com/analytics-vidhya/solution-to-tensorflow-2-not-using-gpu-119fb3e04daa)
