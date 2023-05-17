@@ -1,5 +1,5 @@
 # Deep_Facial_Recognition_App
-Build a Python Facial Recognition App with Tensorflow and Kivy from stratch
+Build a Python Facial Recognition App with Tensorflow, OpenCV and Kivy from stratch
 
 ### Software and Tools Requirements
 
@@ -22,6 +22,7 @@ conda activate env_name
 conda install --yes --file requirements.txt
 ```
 
+### Download the Labeled Faces in the Wild dataset : [Link](http://vis-www.cs.umass.edu/lfw/)
 ### To run the facial recognition app
 
 ```
