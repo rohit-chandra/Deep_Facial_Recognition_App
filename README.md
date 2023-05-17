@@ -19,7 +19,7 @@ conda activate env_name
 ### Dependencies
 
 ```
-conda install --yes --file requirements.txt
+conda install --yes --file requirements.txt or pip install -r requirements.txt
 ```
 
 ### Download the Labeled Faces in the Wild dataset : [Link](http://vis-www.cs.umass.edu/lfw/)
