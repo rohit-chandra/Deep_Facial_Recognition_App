@@ -22,7 +22,8 @@ conda activate env_name
 conda install --yes --file requirements.txt
 ```
 
-### To run the app
+### To run the facial recognition app
+
 ```
 python faceid.py
 ```
